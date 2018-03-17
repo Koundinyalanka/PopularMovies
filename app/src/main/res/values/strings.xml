@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular">Sort By Most Popular</string>
+    <string name="highest_rated">Sort By Highest Rated</string>
+    <string name="overview">Plot</string>
+    <string name="wait">Please wait</string>
+    <string name="result">results</string>
+    <string name="background">This is Background Image.</string>
+    <string name="poster">This is Poster.</string>
+    <string name="title">Title appears here</string>
+    <string name="release_date">Release Date appears here</string>
+    <string name="user_rating">User Rating appears here</string>
+    <string name="description">Description for movie</string>
+    <string name="splash">This is splash image.</string>
+    <string name="popularmovies">popular</string>
+    <string name="ratedmovies">top_rated</string>
+</resources>
